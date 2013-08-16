@@ -1,0 +1,12 @@
+{
+    "name": "koriym/todo",
+    "require": {
+        "ray/di": "*"
+    },
+    "authors": [
+        {
+            "name": "Akihito Koriyama",
+            "email": "akihito.koriyama@gmail.com"
+        }
+    ]
+}
