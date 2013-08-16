@@ -32,7 +32,7 @@ class Todo
     }
 }
 
-class Module extends \Ray\Di\AbstractModule
+class Module extends AbstractModule
 {
     public function configure()
     {
