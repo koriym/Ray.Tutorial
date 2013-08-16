@@ -6,9 +6,6 @@ use Ray\Aop\Weave;
 
 trait TodoInjectTrait
 {
-    /**
-     * @var Todo
-     */
     private $todo;
 
     /**
